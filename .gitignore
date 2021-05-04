@@ -1,0 +1,14 @@
+.mps/workspace.xml
+.mps/vcs.xml
+*/*/source_gen/**/*
+*/*/source_gen.caches/**/*
+*/*/test_gen/**/*
+*/*/classes_gen/**/*.class
+*/*/classes_gen/**/trace.info
+*/*/classes_gen/**/*
+*.class
+build/*
+.DS_Store
+trace.info
+dependencies
+generated
